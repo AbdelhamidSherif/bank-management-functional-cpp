@@ -56,7 +56,7 @@ Each client record contains:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/bank-client-management.git
+   git clone https://github.com/AbdelhamidSherif/bank-client-management.git
    cd bank-client-management
    ```
 
