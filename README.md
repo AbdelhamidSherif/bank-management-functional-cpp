@@ -44,32 +44,6 @@ Each client record contains:
 - **Phone**: Contact phone number
 - **Account Balance**: Current balance in the account
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- C++ compiler (GCC, MSVC, or Clang)
-- Standard C++ libraries
-- Windows OS (due to `system("cls")` and `system("pause>0")` commands)
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/AbdelhamidSherif/bank-client-management.git
-   cd bank-client-management
-   ```
-
-2. **Compile the program**
-   ```bash
-   g++ -o bank_system main.cpp
-   ```
-
-3. **Run the application**
-   ```bash
-   ./bank_system
-   ```
-
 ## 📋 Usage
 
 ### Main Menu Options
